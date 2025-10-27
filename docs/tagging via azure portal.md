@@ -37,5 +37,3 @@ In this task, I created a new resource group and assigned tags to it using the A
 - Resource group tags can be applied during creation or after
 - Tags are useful for cost tracking, compliance, and resource management
 - Multiple tags can be added to a single resource group
-
-

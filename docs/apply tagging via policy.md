@@ -78,3 +78,4 @@ When I navigated to the storage account's overview page, I confirmed that the **
 | User Experience    | Forces manual tag addition | Automatic tag inheritance    |
 | Managed Identity   | Not required               | Required                     |
 | Existing Resources | No automatic fix           | Can remediate via task       |
+
